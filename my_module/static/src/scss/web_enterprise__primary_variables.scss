@@ -1,0 +1,13 @@
+/* Dooit/REEK, part of my_module
+/
+/ Update of interface colors
+/ Overrides for /src/enterprise/web_enterprise/static/src/scss/primary_variables.scss
+*/
+
+/* Navigation bar color */
+$o-enterprise-color: #0a335c;
+//alternative// $o-enterprise-color: #3e3b3f;
+//master-test// 
+$o-enterprise-color: #b82e2e;
+//master-dev// $o-enterprise-color: #e0a906;
+$o-brand-odoo: $o-enterprise-color;
